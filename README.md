@@ -4,9 +4,9 @@
 <p align="center">
   <a href="https://compgat.netlify.app/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/valentine-gatwiri-72901618a">Linkedin</a> - 
-  <a href="https://twitter.com/ValentineGatwi3?s=09">Twitter</a>
-  <a href="https://compgat.medium.com/">Medium</a>
-  <a href="https://stackoverflow.com/users/15049827/1-creator">Stackoverflow>
+  <a href="https://twitter.com/ValentineGatwi3?s=09">Twitter</a>-
+  <a href="https://compgat.medium.com/">Medium</a>-
+  <a href="https://stackoverflow.com/users/15049827/1-creator">Stackoverflow</a>-
 </p>
 
 -----------------------------------------------------------
