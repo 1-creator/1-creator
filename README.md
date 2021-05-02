@@ -10,7 +10,7 @@
 </p>
 
 -----------------------------------------------------------
-I'm Valentine Gatwiri a software engineer based in Kenya.Currently I am the DSC lead for <a href="https://twitter.com/CukDsc?s=09"</a> Developer Student Clubs , Cooperative University Of Kenya.Kotlin is my main development tool for making Android applications.I am also experienced in front-end  web development.
+I'm Valentine Gatwiri a software engineer based in Kenya.Currently I am the DSC lead for (a href="https://twitter.com/CukDsc?s=09")[ Developer Student Clubs , Cooperative University] Of Kenya.Kotlin is my main development tool for making Android applications.I am also experienced in front-end  web development.
 I'm very passionate about technologies, I spend much of my spare time learning and obsessing about the latest  technologies,both for mobile and web. 
 I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
 
@@ -69,7 +69,7 @@ I think it’s important to love doing what you do, so the passion will continue
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-### or  nominate me as a github star
+### or  nominate me as a github star ✨.
 
 </div>
 
