@@ -44,8 +44,10 @@ I think it’s important to love doing what you do, so the passion will continue
 <br />
 <br />
 <br/>
-
-
+    
+##badges
+    
+[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
 
 ## Package Manager
