@@ -38,6 +38,7 @@ I think it’s important to love doing what you do, so the passion will continue
 <a><img align="left" alt="Android Studio" width="30px" src="https://image.shutterstock.com/image-photo/kiev-ukraine-april-02-2015-600w-272871071.jpg" /><a/>
   <a><img align="left" alt="Netbeans" width="30px" src="https://e7.pngegg.com/pngimages/749/789/png-clipart-netbeans-java-computer-software-computer-program-installation-keepass-icon-rectangle-computer-program-thumbnail.png" /><a/>
     
+[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
 
 
@@ -45,10 +46,6 @@ I think it’s important to love doing what you do, so the passion will continue
 <br />
 <br/>
     
-##badges
-    
-[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
-
 
 ## Package Manager
 
