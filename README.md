@@ -10,7 +10,7 @@
 </p>
 
 -----------------------------------------------------------
-I'm Valentine Gatwiri an Android engineer based in Kenya.Pioneer DSC lead  [Developer Student Clubs , Cooperative University Of Kenya](https://twitter.com/CukDsc?s=09) .Postman Student Expert.I'm very passionate about technologies, I spend much of my spare time learning and obsessing about the latest  technologies.
+I'm Valentine Gatwiri an Android engineer based in Kenya.Pioneer DSC lead  [Developer Student Clubs , Cooperative University Of Kenya](https://twitter.com/CukDsc?s=09) .Postman Student Expert. I'm very passionate about technologies, I spend much of my spare time learning and obsessing about the latest  technologies.
 I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
 
 
