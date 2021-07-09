@@ -54,8 +54,7 @@ I think it’s important to love doing what you do, so the passion will continue
     
 
 
-
-##  Version Control
+## Version Control
     
     
     
