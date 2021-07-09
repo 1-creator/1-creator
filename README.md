@@ -10,7 +10,7 @@
 </p>
 
 -----------------------------------------------------------
-I'm Valentine Gatwiri an Android engineer based in Kenya.Pioneer DSC lead  [Developer Student Clubs , Cooperative University Of Kenya](https://twitter.com/CukDsc?s=09) .Postman Student Expert. I'm very passionate about technology, I spend much of my spare time learning and obsessing about the latest  technologies.
+I'm Valentine Gatwiri an Aspiring Android engineer based in Kenya.Pioneer DSC lead  [Developer Student Clubs , Cooperative University Of Kenya](https://twitter.com/CukDsc?s=09) .Postman Student Expert. I'm very passionate about technology, I spend much of my spare time learning and obsessing about the latest  technologies.
 I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
 
 
@@ -53,7 +53,8 @@ I think it’s important to love doing what you do, so the passion will continue
 
 
 
-## Version Control
+##  Version Control
+    
 <a><img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><a/>
 <a><img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><a/>
  <br />
