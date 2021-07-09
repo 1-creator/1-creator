@@ -34,7 +34,7 @@ I think it’s important to love doing what you do, so the passion will continue
 <a><img align="left" alt="Java" width="30px" src="https://image.flaticon.com/icons/png/128/226/226777.png"/><a/>
  <a><img align="left" alt="React" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png"/><a/>
  <a><img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><a/>
-<a><img align="left" alt="Android Studio" width="30px" src="https://image.shutterstock.com/image-photo/kiev-ukraine-april-02-2015-600w-272871071.jpg" /><a/>
+<a><img align="left" alt="Android Studio" width="30px" src="/><a/>
   <a><img align="left" alt="Netbeans" width="30px" src="https://e7.pngegg.com/pngimages/749/789/png-clipart-netbeans-java-computer-software-computer-program-installation-keepass-icon-rectangle-computer-program-thumbnail.png" /><a/>
     
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
