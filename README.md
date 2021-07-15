@@ -10,17 +10,19 @@
 </p>
 
 -----------------------------------------------------------
-I'm Valentine Gatwiri an Aspiring Android engineer based in Kenya.Pioneer DSC lead  [Developer Student Clubs , Cooperative University Of Kenya](https://twitter.com/CukDsc?s=09) .Postman Student Expert. I'm very passionate about technology, I spend much of my spare time learning and obsessing about the latest  technologies.
+fronted developer || Aspiring Android engineer||Pioneer DSC lead  [@DSC_CUK](https://twitter.com/CukDsc?s=09)||Postman Student Expert.
+I'm very passionate about technology, I spend much of my spare time learning and obsessing about the latest  technologies.
 I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
 
 
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning more about Android development.
 - 👯 I’m looking to collaborate on Anything.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me about  any tech related stuff.
 - 📫 How to reach me johnsvale7@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love cats.
+- 💖 Space Exploration
 
 
 -------------------------------------------------------------
